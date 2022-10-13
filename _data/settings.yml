@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Mria
-logo: # You can add own logo. For example '/images/logo.png'.
+title: Mysterium
+logo: '/assets/images/logo.png' # You can add own logo. For example '/images/logo.png'.
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
