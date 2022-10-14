@@ -8,30 +8,30 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 
 #-------------------------------
 # Navigation Settings
-menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Videos'
-      url: '/videos/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+#menu__settings:
+#  menu__items:
+#    - title: 'Home'
+#      url: '/'
+#    - title: 'Blog'
+#      url: '/blog/'
+#    - title: 'Authors'
+#      url: '/authors/'
+#    - title: 'Videos'
+#      url: '/videos/'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/about/'
+#        title: 'About'
+#      - url: '/contact/'
+#        title: 'Contact'
+#      - url: '/elements/'
+#        title: 'Elements'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  enable: true
+  enable: false
   hero__title: Thoughts, stories and ideas.
   hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
   hero__image: # You can add hero image. For example '/images/06.jpg'
@@ -40,9 +40,9 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__name: Di63
+  author__bio:
+  author__avatar: /assets/images/authors/di63.png
 
 
 #-------------------------------
@@ -64,14 +64,14 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
+  enable: false
   tag: travel # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
 # Author Section Settings
 author__section:
-  enable: true
+  enable: false
   author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
