@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Mysterium
+title: 'Blog | Mysterium Network'
 logo: '/assets/images/logo.png' # You can add own logo. For example '/images/logo.png'.
 description: 'Mytnodes Blog: A peer-to-peer bandwidth marketplace'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -33,7 +33,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 hero:
   enable: false
   hero__title: Thoughts, stories and ideas.
-  hero__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+  hero__description: A peer-to-peer bandwidth marketplace, powering a Network-as-a-service solution. Sell your unused bandwidth and earn crypto passive income, MYST.
   hero__image: # You can add hero image. For example '/images/06.jpg'
 
 
@@ -94,32 +94,34 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
+footer__description: A peer-to-peer bandwidth marketplace, powering a Network-as-a-service solution. Sell your unused bandwidth and earn crypto passive income, MYST.
 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
-- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+- {icon: "twitter", link: "https://twitter.com/MysteriumNet"}
+- {icon: "facebook", link: "https://www.facebook.com/MysteriumNet"}
+- {icon: "discord", link: "https://discord.com/invite/n3vtSwc"}
+- {icon: "youtube", link: "https://www.youtube.com/channel/UCBxzWnZEHvuj-nfP00YImHQ"}
+- {icon: "github", link: "https://github.com/MysteriumNetwork"}
+- {icon: "telegram", link: "https://t.me/mysterium_network"}
+- {icon: "reddit", link: "https://www.reddit.com/r/MysteriumNetwork"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
 
 # Footer Navigation
-footer__menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+#footer__menu__settings:
+#  menu__items:
+#    - title: 'Home'
+#      url: '/'
+#    - title: 'About'
+#      url: '/about/'
+#    - title: 'Contact'
+#      url: '/contact/'
+#    - title: 'Elements'
+#      url: '/elements/'
 
 
 #-------------------------------

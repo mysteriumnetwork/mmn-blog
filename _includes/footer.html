@@ -73,20 +73,6 @@
                 {% endfor %}
               </div>
             </div>
-
-            <div class="col col-2 col-d-12">
-              <div class="widget-footer widget-nav">
-                <h3 class="widget-nav__title">Menu</h3>
-                <ul class="widget-nav__list list-reset">
-                  {% for item in site.data.settings.footer__menu__settings.menu__items %}
-                  <li class="widget-nav__item">
-                    <a href="{{ item.url | relative_url }}" class="widget-nav__link">{{ item.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-
           </div>
         </div>
 
