@@ -89,7 +89,7 @@ mailchimp__settings:
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address
   mailchimp__button__text: Subscribe
-  mailchimp__background__image: /images/subscribe-bg.jpg
+  mailchimp__background__image: /assets/images/styles/subscribe-bg.png
 
 
 #-------------------------------
@@ -136,7 +136,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

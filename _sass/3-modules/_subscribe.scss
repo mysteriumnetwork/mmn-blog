@@ -13,16 +13,16 @@
   width: 100%;
   height: 100%;
 
-  &::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: var(--dark);
-    opacity: 0.95;
-  }
+  //&::after {
+  //  content: "";
+  //  position: absolute;
+  //  top: 0;
+  //  left: 0;
+  //  width: 100%;
+  //  height: 100%;
+  //  background: var(--dark);
+  //  opacity: 0.95;
+  //}
 }
 
 .subscribe__inner {
