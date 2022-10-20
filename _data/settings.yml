@@ -4,16 +4,16 @@ title: 'Blog | Mysterium Network'
 logo: '/assets/images/logo.png' # You can add own logo. For example '/images/logo.png'.
 description: 'Mytnodes Blog: A peer-to-peer bandwidth marketplace'
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
+logo_link: 'https://mystnodes.com'
 
 #-------------------------------
 # Navigation Settings
-#menu__settings:
-#  menu__items:
+menu__settings:
+  menu__items:
 #    - title: 'Home'
 #      url: '/'
-#    - title: 'Blog'
-#      url: '/blog/'
+    - title: 'Blog'
+      url: '/blog/'
 #    - title: 'Authors'
 #      url: '/authors/'
 #    - title: 'Videos'
