@@ -10,8 +10,8 @@ logo_link: 'https://mystnodes.com'
 # Navigation Settings
 menu__settings:
   menu__items:
-#    - title: 'Home'
-#      url: '/'
+    - title: 'Home'
+      url: '/'
     - title: 'Blog'
       url: '/blog/'
 #    - title: 'Authors'
