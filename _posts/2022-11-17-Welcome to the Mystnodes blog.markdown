@@ -14,6 +14,3 @@ This is our new home of updates, new feature releases, collaborations and all ot
 
 Subscribe also to our newsletter below to receive these updates direct to your inbox, so that your node is always up to date and your earnings remain unaffected. 
 
-:v:&:purple_heart:
-Team Mystnodes
-
