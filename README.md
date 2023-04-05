@@ -1,3 +1,11 @@
+# Running locally
+
+- Using docker, run the following command in the root directory: 
+
+```shell
+docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
+```
+
 # Mria is a multipurpose Jekyll blog theme.
 
 Mria is a high-quality multipurpose Jekyll theme with a unique style and clean code. You can use Mria for multipurpose like blog, magazine, portfolio, etc. This theme is fully responsive, and it looks good on all types of screens and devices. If you’re looking for a theme that is clean, high performance, and simple, the Mria theme is exactly what you’re looking for then.
