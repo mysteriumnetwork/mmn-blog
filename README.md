@@ -1,10 +1,23 @@
 # Running locally
 
-- Using docker, run the following command in the root directory: 
+- Using **docker**, run the following command in the root directory: 
+
+### Linux
+
+You have to run this command in the blog root directory.
 
 ```shell
 docker run -p 4000:4000 -v $(pwd):/site bretfisher/jekyll-serve
 ```
+
+### Windows
+
+The command assumes that `c:/blog` is the path to the blog source code.
+
+```cmd
+docker run -p 4000:4000 -v c:/blog:/site bretfisher/jekyll-serve
+```
+
 
 # Mria is a multipurpose Jekyll blog theme.
 
