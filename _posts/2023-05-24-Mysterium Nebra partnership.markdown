@@ -55,8 +55,7 @@ Nebra’s Indoor hotspot offers a compact and sleek design along with a preconfi
 
 > Boost Your Income Potential with a Limited-Time MYST Bonus Offer - Use code NEBRA5MYST
 
-If you onboard your Nebra device before June 7th, 2023, you're in for a MYST windfall. Apply the promotional code NEBRA5MYST during the onboarding steps, and once you reach a 5 MYST benchmark, Mysterium will double your earnings by matching it with an additional 5 MYST bonus.  This promotion applies for each registered account.  Don't let this chance to multiply your returns slip by.
-
+If you onboard your Nebra device before June 7th, 2023, you're in for a MYST windfall. Apply the promotional code NEBRA5MYST during the onboarding steps, and once you reach a 5 MYST benchmark, Mysterium will double your earnings by matching it with an additional 5 MYST bonus. This promotion applies for each registered account, and only Residential IP addresses will be awarded this amount.  Don't let this chance to multiply your returns slip by.
 ## Refresher: How does a MystNodes node work?
 
 In a distributed peer-to-peer network, a node represents a single device, such as a computer or Nebra hardware device, which helps power and maintain that network.
