@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nebra integrates MystNodes -  Unlock crypto passive income with next-gen IoT hardware
-description: Earn dual passive income in HNT and MYST and participate in decentralized networks through the Nebra Mysterium partnership
+description: Earn dual passive income in IoT and MYST and participate in decentralized networks through the Nebra Mysterium partnership
 date:   2023-05-24 10:00:00 +0300
 author: Di63
 image:  '/assets/images/posts/20230524_nebra/banner.png'
@@ -30,7 +30,7 @@ Nebra is also dedicated to making a positive difference in society and the envir
 
 ![Nebra]({{site.baseurl}}/assets/images/posts/20230524_nebra/Image4.png)
 
-Nebra is an expansive ecosystem with more than 100,000 hotspots spanning across more than 182 countries. The crypto miners in the Nebra community have been earning passive income in the form of HNT.
+Nebra is an expansive ecosystem with more than 100,000 hotspots spanning across more than 182 countries. The crypto miners in the Nebra community have been earning passive income in the form of IoT.
 Now with the Mysterium partnership, all the Nebra device holders will be able to earn crypto by mining MYST as well.
 
 ### Various Nebra Device Options
@@ -51,7 +51,7 @@ Nebra’s Indoor hotspot offers a compact and sleek design along with a preconfi
 
 **Seamless integration** - Nebra and Mysterium have made the integration process straightforward. For premium dashboard subscribers, activating the MystNodes service is just a matter of a few clicks. This seamless integration eliminates the need for complex configurations or the addition of extra hardware.
 
-**Localised dashboard** - track your earnings for both HNT and MYST on the same dashboard. This unified view simplifies management and monitoring, providing you with a comprehensive overview of your total earnings.
+**Localised dashboard** - track your earnings for both IoT and MYST on the same dashboard. This unified view simplifies management and monitoring, providing you with a comprehensive overview of your total earnings.
 
 > Boost Your Income Potential with a Limited-Time MYST Bonus Offer - Use code NEBRA5MYST
 
