@@ -27,6 +27,8 @@ Then download the new Android app using the following [link](https://github.com/
 
 If it’s your first node registration with us, you can register for free. If you already have an account and node set up, you’ll need to pay a small fee (roughly $1 USD) to register your new mobile node on the Polygon blockchain.
 
+You can also pay in MYST token for your node registration. The specific amount depends on current Polygon network fees, but usually it’s around 0.2 MYST ($0.05 or less).
+
 You may also need to enable 3rd party APK installs. Check out our [step by step guide](https://help.mystnodes.com/en/articles/8165874-getting-started-with-mystnodes-app) to see how it’s done.
 Once set up, just leave the app running in the background and forget all about it, until your crypto earnings start rolling in…
 
@@ -70,15 +72,14 @@ We take your privacy very seriously. The network is secured by military-grade en
 
 We only use the bare minimum information to get you online and earning: your IP address and email address for registration. You can create a totally separate email address just for MystNodes to keep it separate from your personal one.  
 
-## What Is the Difference Between “Public”, “Data Transfer” and “Data Scraping” Options? 
+## What Is the Difference Between “VPN” “Data Transfer” and “Data Scraping” Options?
 ![services screen]({{site.baseurl}}/assets/images/posts/20230823_android/5.png){: width="250" style="float: left; height: 500px; margin: 0.5em 1em 1em 0" }
 
 MystNodes offers the option to only accept verified traffic from our B2B partners who we vet and work with contractually. These are the “Data transfer” and “Data scraping” options. These businesses must use our services in accordance with their local laws, hence, partners are responsible for how the traffic is used.
 
-By selecting the “Public” traffic option, you will receive traffic from everyday users of the decentralized VPN. While we do have safeguards in place to protect you from "bad traffic", since the traffic is used to power public services, there is still some risk involved. However, in reality the majority of traffic is safe, and selecting the “Public” option also increases your overall earning potential.
+By selecting the “VPN” traffic option, you will receive traffic from everyday users of our VPN partners. While we do have safeguards in place to protect you from "bad traffic", since the traffic is used to power public services, there is still some risk involved. However, in reality the majority of traffic is safe, and selecting the “VPN” option also increases your overall earning potential.
 
-**However, you should not enable “Public” traffic if you’re based in the following countries: Canada, the U.S., the UK, Italy, Australia, Germany, or India.** For those who have a greater technological understanding of how to run an exit node safely and protect the privacy of their node running activities from ISPs, you are welcome to accept all “Public” traffic.
-
+**However, you should not enable “VPN” traffic if you’re based in the following countries: Canada, the U.S., the UK, Italy, Australia, Germany, or India.** For those who have a greater technological understanding of how to run an exit node safely and protect the privacy of their node running activities from ISPs, you are welcome to accept all “VPN” traffic.
 If you’re running a node for the first time or have more questions, you can read our updated DOCS pages [help.mystnodes.com](https://help.mystnodes.com/) , to learn more about how we work, how we protect our node runners, and how to configure your device to maximize earning potential.
 
 ### [Download MystNodes for Android](https://mystnodes.com/onboarding/android) and start earning crypto right away! ###
