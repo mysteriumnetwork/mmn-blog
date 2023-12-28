@@ -2,7 +2,7 @@
 layout: post
 title:  'Crypto Passive Income with SenseCAP x MystNodes Partnership'
 description: 'Get ready for crypto fun! Explore the SenseCAP x MystNodes partnership and double up on passive income with this exciting collaboration. Dive in now!'
-date:   2023-12-28 00:00:00 +0000
+date:   2023-12-28 00:00:00 +0300
 author: Artas
 image:  '/assets/images/posts/20231228_sensecap/hero.png'
 tags:   [Passive Income, earn passive income, Mysterium, Mysterium Network, MystNodes, Node Runner]
