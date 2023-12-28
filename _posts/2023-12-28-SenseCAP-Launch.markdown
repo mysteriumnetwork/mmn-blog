@@ -15,7 +15,7 @@ Mysterium continues to expand its growing network of partners, which are all hel
 
 In that spirit, we are excited to announce our latest partnership with [SenseCAP](https://www.sensecapmx.com/), an IoT hardware brand with over 15 years of experience focusing on making high-quality hardware products and dApps accessible to the global Web 3.0 community.
 
-MystNodes software has been integrated with [SenseCAP M4 Square](https://www.seeedstudio.com/SenseCAP-M4-p-5556.html?utm_source=MYST), a powerful device to run multiple Web 3.0 dAPPs ([Helium](https://www.helium.com/), [FluxNode](https://runonflux.io/nodes), and now [MystNodes](http://mystnodes.com)). This enables the community of miners to begin earning additional cryptocurrency with their existing devices. ssion of a people-powered open internet with a user-friendly and easy crypto-mining experience. Kryptex users can add one more mining stream to their portfolio.
+MystNodes software has been integrated with [SenseCAP M4 Square](https://www.seeedstudio.com/SenseCAP-M4-p-5556.html?utm_source=MYST), a powerful device to run multiple Web 3.0 dAPPs ([Helium](https://www.helium.com/), [FluxNode](https://runonflux.io/nodes), and now [MystNodes](http://mystnodes.com)). This enables the community of miners to begin earning additional cryptocurrency with their existing devices. ssion of a people-powered open internet with a user-friendly and easy crypto-mining experience.
 
 ![banner_1]({{site.baseurl}}/assets/images/posts/20231228_sensecap/exhibit_a.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
