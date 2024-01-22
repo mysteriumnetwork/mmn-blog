@@ -21,8 +21,6 @@ How? By sharing your internet connection with businesses for commercial purposes
 
 It’s the modern way of making your device work for you.
 
-Multiply your MYST earnings effortlessly.
-
 ## The Basics: Give 5, Get 5 back
 
 Our referral system is as simple as it gets.
@@ -40,7 +38,7 @@ What’s in it for you? We believe in spreading good karma, so when your referre
     Make sure you have added your wallet address to your MystNodes account first. Without it, no referral link can be generated!
 
 2. **Share the Love**: Send your referral link to friends, family, or anyone who loves the idea of earning crypto passive income while they sleep. Don't forget to mention the cool 5 MYST bonus awaiting them!
-3. **Watch Your Earnings Grow**: As your friends join Mystnodes and their nodes also start earning MYST, you'll see your rewards stack up. Please note that the rewards will be gained only for the first node of your referred friends. That is, if your referral creates 3 nodes, you will receive the reward for the first node to earn 5 MYST.
+3. **Watch Your Earnings Grow**: As your friends join MystNodes and their nodes also start earning MYST, you’ll see your rewards stack up. Please note that rewards will be earned only for the first node that your friend activates. That is, if a friend creates 3 nodes, you will receive the reward for the first of their nodes to earn 5 MYST.
 
 ## Why Join the Referral Fun?
 
@@ -50,7 +48,7 @@ What’s in it for you? We believe in spreading good karma, so when your referre
 
 ## Spread the Word, Reap the Rewards
 
-So, what are you waiting for? Dive into your profile, grab your referral link, and start spreading the word. Let's turn this crypto journey into a shared adventure where everyone benefits.
+So, what are you waiting for? [Dive into your profile](https://mystnodes.com/me), grab your referral link, and start spreading the word. Let's turn this crypto journey into a shared adventure where everyone benefits.
 
 It's time to give 5, get 5, and watch the MYST magic unfold!
 
