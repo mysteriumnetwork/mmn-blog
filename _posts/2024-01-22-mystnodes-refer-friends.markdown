@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  'The MystNodes Friend Referral Program is Live'
-description: 'Having friends pays off - literally.'
+description: 'Invite friends to join MystNodes & recieve rewards. Share your unique link & earn bonus MYST when your friends start earning in the network.'
 date:   2024-01-21 00:00:00 +0300
 author: Artas
 image:  '/assets/images/posts/20240122/hero.png'
 tags:   [Passive Income, earn passive income, Mysterium, Mysterium Network, MystNodes, Node Runner]
 tags_color: '#477690'
 ---
+
+Having friends pays off - literally.
 
 We've got some exciting news to share that could boost your passive crypto earnings and make you more popular (no promises).
 
